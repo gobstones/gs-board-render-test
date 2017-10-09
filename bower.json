@@ -1,0 +1,10 @@
+{
+  "name": "test-gs-board",
+  "version": "0.0.0",
+  "authors": [],
+  "description": "Test of gs-board",
+  "license": "MIT",
+  "dependencies": {
+    "gs-board": "gobstones/gs-board#^1.8.0"
+  }
+}
